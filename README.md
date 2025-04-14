@@ -1,4 +1,4 @@
-# 📊 YFinance Stock Analysis (5-Year Monthly Resample)
+# 📊 YFinance Stock Analysis (5-Year Monthly)
 
 This project uses [yfinance](https://github.com/gauravvxv/yfinance) to download 5 years of historical stock data from Yahoo Finance, resamples it to monthly frequency, and saves it to an Excel file with each stock on a separate sheet.
 
@@ -7,7 +7,7 @@ This project uses [yfinance](https://github.com/gauravvxv/yfinance) to download 
 ## 🚀 Features
 
 - 📈 Download 5 years of daily stock data
-- 🗓️ Resample to monthly average
+- 🗓️ Resample to monthly 
 - 📂 Save each stock’s data to a separate Excel sheet
 - 💾 Google Colab friendly (with Google Drive support)
 
